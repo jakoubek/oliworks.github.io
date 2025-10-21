@@ -1,2 +1,3 @@
-# oliworks.github.io
+# oli.works ... sometimes
+
 Static website for oli.works
