@@ -1,8 +1,8 @@
 User-agent: *
-{{- if hugo.IsProduction -}}
+{{ if hugo.IsProduction -}}
 Allow: /
-{{ else }}
+{{ else -}}
 Disallow: /
-{{- end }}
+{{ end -}}
 
-Sitemap: {{ .Site.BaseURL }}/sitemap.xml
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
