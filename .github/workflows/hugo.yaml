@@ -70,6 +70,8 @@ jobs:
           restore-keys:
             hugo-
       - name: Build the site
+        env:
+          HUGO_PARAMS_GITHASH: ${{ github.sha }}
         run: |
           hugo \
             --gc \
