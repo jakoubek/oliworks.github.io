@@ -1,3 +1,3 @@
 # oli.works ... sometimes
 
-Static website for oli.works
+Contact *Oliver Jakoubek* via email at [sometimes@oli.works](mailto:sometimes@oli.works).
