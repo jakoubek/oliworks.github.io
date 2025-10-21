@@ -7,6 +7,12 @@
         <p>
             <a href="mailto:sometimes@oli.works" title="Send an email"><em>sometimes@oli.works</em></a>
         </p>
+        {{ $image := resources.Get "threema.png" }}
+        <p>or</p>
+        <h3>on Threema <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" style="vertical-align: middle;"></h3>
+        <p>
+            <a href="https://threema.id/MR7R68AH" title="Contact me on Threema"><em>MR7R68AH</em></a>
+        </p>
     </aside>
 </section>
 
