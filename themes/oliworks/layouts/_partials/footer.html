@@ -1,1 +1,5 @@
-<p><b>Oliver Jakoubek, {{ now | dateFormat "2006-01-02" }}</b> &middot; Built with <a href="https://gohugo.io">Hugo</a> &amp; <a href="https://andybrewer.github.io/mvp/">MVP.css</a> &middot; Lizenz: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a></p>
+<p><b>Oliver Jakoubek, {{ now | dateFormat "2006-01-02" }}</b>
+{{ with .GitInfo }}
+&middot; Rev: {{ .AbbreviatedHash }}
+{{ end }}
+    &middot; Built with <a href="https://gohugo.io">Hugo</a> &amp; <a href="https://andybrewer.github.io/mvp/">MVP.css</a> &middot; Lizenz: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a></p>

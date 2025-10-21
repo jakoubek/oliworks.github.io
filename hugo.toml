@@ -1,3 +1,4 @@
+enableGitInfo = true
 baseURL = 'https://oli.works/'
 languageCode = 'en-us'
 title = 'Oli works — sometimes'
