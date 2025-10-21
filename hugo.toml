@@ -8,6 +8,17 @@ theme = 'oliworks'
     author = "Oliver Jakoubek"
     description = 'Most minimal website of Oliver Jakoubek'
 
+[menus]
+  [[menus.main]]
+    name = 'Start'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Impressum'
+    pageRef = '/impressum/'
+    weight = 20
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
