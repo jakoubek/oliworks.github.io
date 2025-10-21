@@ -1,0 +1,8 @@
+baseURL = 'https://oli.works/'
+languageCode = 'en-us'
+title = 'Oli works — sometimes'
+theme = 'oliworks'
+
+[params]
+    author = "Oliver Jakoubek"
+    description = 'Most minimal website of Oliver Jakoubek'
