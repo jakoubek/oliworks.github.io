@@ -6,3 +6,7 @@ theme = 'oliworks'
 [params]
     author = "Oliver Jakoubek"
     description = 'Most minimal website of Oliver Jakoubek'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

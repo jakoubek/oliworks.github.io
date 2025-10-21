@@ -1,3 +1,3 @@
-# oli.works ... sometimes
+# Hugo source code for the oli.works website
 
-Contact *Oliver Jakoubek* via email at [sometimes@oli.works](mailto:sometimes@oli.works).
+Built with Hugo.
