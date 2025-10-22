@@ -47,5 +47,21 @@ The site is deployed to GitHub Pages. Hugo builds output to the `public/` direct
 
 ### Content Management
 - Content files use TOML front matter (`+++` delimiters)
-- Front matter fields: `date`, `draft`, `title`
+- Standard front matter fields: `date`, `draft`, `title`, `description`, `showDate`
 - Pages can be set to draft mode by setting `draft = true`
+
+### Content Types
+
+#### Projekt (Customer Projects)
+The site has a custom content type for customer project portfolio items:
+- **Location**: `content/projekt/` directory
+- **Archetype**: `archetypes/projekt.md` provides template with `description` and `technologies` fields
+- **Custom layouts**:
+  - `themes/oliworks/layouts/projekt/list.html` - List view showing all projects with descriptions
+  - `themes/oliworks/layouts/projekt/single.html` - Single project page with technology tags
+- **Creating new project**: `hugo new content projekt/my-project.md`
+
+#### Taxonomies
+- **Technologies taxonomy**: Defined in `hugo.toml` as `techology = 'technologies'` (note: typo in config)
+- Projects use `technologies = ['tech1', 'tech2']` in front matter
+- Rendered using `_partials/terms.html` partial on project pages
