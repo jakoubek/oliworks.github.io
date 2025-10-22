@@ -16,6 +16,9 @@ This is a static website for oli.works built with Hugo static site generator, ho
 ### Deployment
 The site is deployed to GitHub Pages. Hugo builds output to the `public/` directory which is pushed to the repository.
 
+### Working with Local Development Server
+**IMPORTANT**: When accessing the local Hugo development server at http://localhost:1313 via Playwright MCP, NEVER start the Hugo server yourself (`hugo server`). The server is managed externally outside of Claude Code sessions. Only access the already-running server.
+
 ## Architecture
 
 ### Site Structure
