@@ -17,7 +17,7 @@ theme = 'oliworks'
     weight = 10
 
   [[menus.main]]
-    name = 'Kundenprojekte'
+    name = 'Portfolio'
     pageRef = '/projekt/'
     weight = 20
 
