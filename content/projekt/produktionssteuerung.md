@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T12:14:26+02:00'
-draft = false
 title = 'Produktionssteuerung'
 description = 'Entwicklung eines Echtzeit-Steuerungssystems für die Produktion'
 technologies = ["Dashboard", "SAP SQL Anywhere", "Xojo"]

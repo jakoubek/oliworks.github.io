@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T13:08:31+02:00'
-draft = true
 title = 'Verteilspiegel-Manager'
 description = 'Zeitsparende Auftragsanlage für eine Warenwirtschafts-Anwendung'
 technologies = ['Lazarus', 'SAP SQL Anywhere']

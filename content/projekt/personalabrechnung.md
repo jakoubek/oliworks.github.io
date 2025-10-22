@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T13:01:54+02:00'
-draft = false
 title = 'Software für Personalabrechnung'
 description = 'Individuelle Bruttolohnermittlung aus Warenwirtschaftsdaten'
 technologies = ['SAP SQL Anywhere', 'Lazarus']

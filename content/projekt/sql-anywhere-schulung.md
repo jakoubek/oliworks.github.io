@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T13:03:21+02:00'
-draft = false
 title = 'SAP SQL Anywhere-Schulung für Administratoren'
 description = 'Mehrtägige Schulung für IT-Administratoren'
 technologies = ['SAP SQL Anywhere', 'Schulung']

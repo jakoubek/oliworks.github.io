@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T13:04:29+02:00'
-draft = true
 title = 'Wareneingangs-Software'
 description = 'Wareneingang mit Integration in bestehende Warenwirtschaft'
 technologies = ['Xojo', 'SAP SQL Anywhere']

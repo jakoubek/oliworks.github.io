@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T12:56:25+02:00'
-draft = false
 title = 'Transportlogistik XTL'
 description = 'Anbindung einer Warenwirtschaft an das Transportlogistik-SaaS XTL'
 technologies = ['API', 'Go', 'SAP SQL Anywhere']

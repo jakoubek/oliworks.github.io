@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T12:47:09+02:00'
-draft = false
 title = 'Datenbank-Migrationen'
 description = 'Einführung eines Datenbank-Migrationstools zur Weiterentwicklung von Datenbank-Strukturen'
 technologies = ["MySQL", "MariaDB", "PowerShell", "SQL"]

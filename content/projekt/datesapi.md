@@ -1,6 +1,5 @@
 +++
 date = '2025-10-22T12:59:01+02:00'
-draft = false
 title = 'DatesAPI'
 description = 'Ein kostenfrei nutzbarer Webservice, der Datumswerte bereitstellt und einfach in Make oder Zapier eingebunden werden kann'
 technologies = ['Automatisierung', 'Go', 'API']
