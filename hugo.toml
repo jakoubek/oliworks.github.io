@@ -16,9 +16,17 @@ theme = 'oliworks'
     weight = 10
 
   [[menus.main]]
+    name = 'Kundenprojekte'
+    pageRef = '/projekt/'
+    weight = 20
+
+  [[menus.main]]
     name = 'Impressum'
     pageRef = '/impressum/'
-    weight = 20
+    weight = 30
+
+[taxonomies]
+  techology = 'technologies'
 
 [caches]
   [caches.images]
