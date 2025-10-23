@@ -15,7 +15,7 @@ E-Mail: info@jakoubek.net
 Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz:  
 DE232456565
 
-Verantwortlich für den Inhalt:  
-Oliver Jakoubek  
-Maria-Lanz-Straße 20  
-88677 Markdorf
+
+## Datenschutzerklärung (DSGVO)
+
+Diese Website erhebt, speichert und verarbeitet keine personenbezogenen Daten. Es kommen keine Cookies zum Einsatz.
