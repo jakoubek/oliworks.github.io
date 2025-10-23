@@ -1,6 +1,5 @@
 +++
 date = '2018-04-30'
-draft = true
 title = 'Versandpapierdruck'
 description = 'Massenweises Erzeugen von PDF-Papieren aus einer Warenwirtschaft'
 technologies = ['SAP SQL Anywhere', 'Xojo', 'Go']
