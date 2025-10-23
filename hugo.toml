@@ -29,6 +29,13 @@ theme = 'oliworks'
 [taxonomies]
   techology = 'technologies'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
