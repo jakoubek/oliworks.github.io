@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+    
+    {{ $drafts := where .Site.AllPages "Draft" true }}
+    {{ $currentPage := . }}
+    {{ $filteredDrafts := where $drafts "Permalink" "!=" $currentPage.Permalink }}
+    
+    {{ if $filteredDrafts }}
+    <table>
+      <thead>
+        <tr>
+          <th>Titel</th>
+          <th>Section</th>
+          <th>Datum</th>
+          <th>Pfad</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $filteredDrafts.ByTitle }}
+          <tr>
+            <td><strong>{{ .Title }}</strong></td>
+            <td>{{ with .Section }}{{ . }}{{ else }}-{{ end }}</td>
+            <td>{{ .Date.Format "2006-01-02" }}</td>
+            <td><small><a href="{{ .RelPermalink }}">{{ .File.Path }}</small></td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    <p><em>Anzahl Drafts: {{ len $filteredDrafts }}</em></p>
+
+    {{ else }}
+      <p>Keine Draft-Seiten gefunden.</p>
+    {{ end }}
+
+{{ end }}
