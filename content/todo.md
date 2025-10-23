@@ -6,8 +6,10 @@ layout = 'todo'
 +++
 
 - [ ] neue Sektion "notes"
+- [ ] neue Seite "/now"
 - [x] Titel: Oli works -> Oliver Jakoubek
-- [x] Logo und/oder Titel im Header
+- [x] Titel im Header
+- [x] Logo im Header (von jakoubek.net)
 - [x] kein Titel auf Nicht-Startseiten
 
 ---

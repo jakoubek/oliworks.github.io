@@ -1,9 +1,11 @@
 +++
-date = '2025-10-23T12:26:00+02:00'
+date = '2024-01-01'
 draft = true
-title = 'Prospektdevice'
-description = 'kurze Zusammenfassung'
-technologies = ['', '']
+title = 'ProspektDevice'
+description = 'Webbasierte Branchensoftware für Prospektverteilung'
+technologies = ['PHP', 'Laravel', 'PostgreSQL']
 +++
 
-Projektbeschreibung
+**ProspektDevice** ist eine webbasierte Software, mit der Unternehmen aus der Branche Prospektverteilung oder Anzeigenblatt-Verteilung ihre logistischen und kaufmännischen Prozesse abbilden.
+
+Die Anwendung wird von mir als gehostete Lösung (SaaS) angeboten - kann aber auch vom Unternehmen bei Bedarf selbstständig gehostet werden.
