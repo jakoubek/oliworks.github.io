@@ -1,2 +1,6 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
+{{ if .IsHome }}
 <h1>Oli works &mdash; <i>sometimes</i></h1>
+<p><b>Oliver Jakoubek</b> berät Sie beim Einsatz von datenbank-basierten Individualsoftwarelösungen.</p>
+{{ end }}

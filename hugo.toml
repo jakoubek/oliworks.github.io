@@ -3,7 +3,7 @@ enableRobotsTXT = true
 baseURL = 'https://oli.works/'
 languageCode = 'en-us'
 defaultContentLanguage = 'de'
-title = 'Oli works — sometimes'
+title = 'Oliver Jakoubek — Software & Beratung'
 theme = 'oliworks'
 
 [params]
