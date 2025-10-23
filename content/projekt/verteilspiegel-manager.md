@@ -1,5 +1,5 @@
 +++
-date = '2025-10-22T13:08:31+02:00'
+date = '2024-06-30'
 title = 'Verteilspiegel-Manager'
 description = 'Zeitsparende Auftragsanlage für eine Warenwirtschafts-Anwendung'
 technologies = ['Lazarus', 'SAP SQL Anywhere']

@@ -1,5 +1,5 @@
 +++
-date = '2025-10-22T12:51:52+02:00'
+date = '2023-12-31'
 title = 'FERAG-String erzeugen'
 description = 'Wie Sie mit meinen Open-Source-Bibliotheken dynamisch TSL-Dateien für Ihre FERAG-Versandanlage erzeugen können'
 technologies = ['FERAG-String', 'Go', 'Laravel', 'PHP', 'PostgreSQL']

@@ -1,5 +1,5 @@
 +++
-date = '2025-10-22T13:04:29+02:00'
+date = '2018-06-30'
 title = 'Wareneingangs-Software'
 description = 'Wareneingang mit Integration in bestehende Warenwirtschaft'
 technologies = ['Xojo', 'SAP SQL Anywhere']
