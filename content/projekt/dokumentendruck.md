@@ -1,7 +1,7 @@
 +++
-date = '{{ .Date }}'
+date = '2025-10-23T19:32:28+02:00'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = 'Dokumentendruck'
 description = ''
 technologies = ['', '']
 +++
