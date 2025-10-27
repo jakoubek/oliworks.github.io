@@ -8,7 +8,7 @@ theme = 'oliworks'
 
 [params]
     author = "Oliver Jakoubek"
-    description = 'Most minimal website of Oliver Jakoubek'
+    description = 'Beratung und Entwicklung datenbankbasierter Individualsoftware für KMUs – Oliver Jakoubek'
 
 [menus]
   [[menus.main]]
