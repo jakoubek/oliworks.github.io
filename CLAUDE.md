@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a static website for oli.works built with Hugo static site generator, hosted on GitHub Pages. The site uses a custom theme called "oliworks" based on the minimal MVP.css framework.
 
+**Business Context**: The website positions Oliver Jakoubek as an experienced consultant for database-based custom software solutions, targeting decision-makers in small and medium-sized enterprises (SMEs) with a focus on business process modeling expertise rather than pure development services.
+
 ## Development Commands
 
 ### Build and Development
@@ -68,3 +70,77 @@ The site has a custom content type for customer project portfolio items:
 - **Technologies taxonomy**: Defined in `hugo.toml` as `techology = 'technologies'` (note: typo in config)
 - Projects use `technologies = ['tech1', 'tech2']` in front matter
 - Rendered using `_partials/terms.html` partial on project pages
+
+## Content Writing Guidelines
+
+### Tone and Voice
+- **Language**: German (Sie-Form - formal professional address)
+- **Style**: Professional yet accessible - competent and trustworthy without being overly technical
+- **Target Audience**: Primary = SME decision-makers with business background; Secondary = technical decision-makers in SMEs
+- Use active voice and concrete statements instead of vague generalizations
+- Focus on customer benefits (what's in it for them) rather than just features
+
+### Content Strategy and Positioning
+**Core Message**: Oliver is a consultant (not just a developer) with expertise in modeling business processes into database structures
+
+**Key Positioning Principles**:
+- Emphasize **consulting competence** over development services
+- Highlight **long-term experience** as a trust anchor
+- Present as **technology-agnostic** (solution competence before specific tech stack)
+- **Cross-industry focus** (deliberately avoid narrow media/publishing niche)
+- Technologies (SQL Anywhere, PostgreSQL, Go, Xojo, Lazarus) are means to an end, not the focus
+
+### Writing Standards
+
+**Always Do**:
+- Write for non-technical business decision-makers to understand
+- Focus on business value and process improvements
+- Position as consultant with deep technical expertise
+- Integrate SEO keywords naturally
+- Include clear calls-to-action where appropriate
+- Ensure authenticity - avoid marketing speak
+
+**Never Do**:
+- Avoid excessive marketing language ("revolutionary", "unique", "state-of-the-art")
+- Don't over-emphasize technical details for main audience
+- Avoid generic phrases ("Your partner for...", "With us at your side...")
+- Don't limit positioning to a single industry or technology
+- Don't use overly casual or overly formal tone
+
+### SEO Guidelines
+
+**Primary Keywords**: datenbankbasierte Individualsoftware, Softwareberatung, Geschäftsprozess-Modellierung, maßgeschneiderte Softwarelösungen, KMU-Software
+
+**Secondary Keywords**: PostgreSQL Entwicklung, Go Entwicklung, Datenbank-Architektur, Business Process Modeling
+
+**URL Slug Best Practices**:
+- Short and concise (3-5 words maximum)
+- Include relevant keyword
+- Use lowercase with hyphens (kebab-case)
+- No umlauts (ä→ae, ö→oe, ü→ue, ß→ss)
+- No filler words (der, die, das, für, von, etc.)
+- Descriptive and meaningful
+
+**Examples**:
+- Customer projects: `/projekt/zeiterfassung-agentur` (not `/projekt-für-zeiterfassung-bei-einer-agentur`)
+- Technologies: `/technologien/postgresql` or `/tech/postgresql`
+- Services: `/geschaeftsprozess-modellierung`, `/softwareberatung`
+
+### Project Content Structure
+Each customer project (`content/projekt/*.md`) should include:
+- Clear project description focusing on business challenge
+- **Die Herausforderung** (The Challenge): Business problem context
+- **Die Lösung** (The Solution): How the solution addresses the challenge
+- Outcome/benefits for the customer
+- Technologies used (linked via taxonomy) - mentioned but not over-emphasized
+
+### Content Quality Checklist
+Before publishing any content, verify:
+- [ ] Understandable for non-technical readers?
+- [ ] Customer benefit clearly communicated?
+- [ ] Consulting competence evident?
+- [ ] SEO keywords naturally integrated?
+- [ ] URL slug optimized (for new pages)?
+- [ ] Tone matches overall positioning?
+- [ ] Clear call-to-action included (where appropriate)?
+- [ ] Sounds authentic, not like generic marketing copy?
