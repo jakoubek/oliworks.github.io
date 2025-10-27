@@ -17,7 +17,7 @@ technologies = ['API']
 **Typische Einsatzszenarien**:
 - Automatische Qualitätsprüfung beim Import neuer Adressdaten
 - Korrektur bestehender Adressdatenbanken
-- Integration in CRM-Systeme (wie im [Ninox-CRM-Projekt](../crm-unternehmensgruppe) umgesetzt)
+- Integration in CRM-Systeme (wie im [Ninox-CRM-Projekt](../performantes-crm-system) umgesetzt)
 - Validierung bei der manuellen Dateneingabe
 
 Die API wird produktiv in verschiedenen Kundenprojekten eingesetzt und steht unter [vornamencheck.de](https://vornamencheck.de/?ref=ow) zur freien Verfügung.
