@@ -52,8 +52,29 @@ The site is deployed to GitHub Pages. Hugo builds output to the `public/` direct
 
 ### Content Management
 - Content files use TOML front matter (`+++` delimiters)
-- Standard front matter fields: `date`, `draft`, `title`, `description`, `showDate`
+- Standard front matter fields: `date`, `draft`, `title`, `description`, `showDate`, `contentQuality`
 - Pages can be set to draft mode by setting `draft = true`
+
+#### Content Quality Field
+The `contentQuality` field rates the textual/content quality of a page on a scale of 1-5 for internal prioritization:
+
+- **5** = Exzellent - Referenzqualität gemäß CLAUDE.md-Standards, optimal für Positionierung und SEO
+- **4** = Sehr gut - Überdurchschnittliche Qualität, erfüllt alle wesentlichen Content-Richtlinien
+- **3** = Gut - Erfüllt Content-Standards, solide Basis ohne größere Schwächen
+- **2** = Basis-Qualität - Funktional verwendbar, aber ausbaufähig (z.B. zu technisch, fehlende Struktur)
+- **1** = Rohfassung - Benötigt grundlegende Überarbeitung (z.B. fehlt Consulting-Fokus, unstrukturiert, nur Stichpunkte)
+
+**Verwendung**: Identifiziere Seiten, die Überarbeitung benötigen. Seiten mit `contentQuality` ≤ 2 sollten zeitnah überarbeitet werden.
+
+**Beispiel**:
+```toml
++++
+date = '2023-11-01'
+title = 'Transportlogistik XTL'
+description = 'Automatisierte Tourenoptimierung...'
+contentQuality = 4
++++
+```
 
 ### Content Types
 
