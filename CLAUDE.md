@@ -120,6 +120,9 @@ The site has a custom content type for customer project portfolio items:
 - Integrate SEO keywords naturally
 - Include clear calls-to-action where appropriate
 - Ensure authenticity - avoid marketing speak
+- **Use short, concise sentences** - prefer two short sentences over one long sentence with subordinate clauses
+  - Example: "Mitarbeiter mussten regelmäßig Daten zwischen den Systemen transferieren. Das führte zu Verzögerungen in der Rechnungsstellung."
+  - Not: "Mitarbeiter mussten regelmäßig Daten zwischen den Systemen transferieren, was zu Verzögerungen in der Rechnungsstellung führte."
 
 **Never Do**:
 - Avoid excessive marketing language ("revolutionary", "unique", "state-of-the-art")
