@@ -1,6 +1,6 @@
 +++
-date = '2025-10-23T10:18:01+02:00'
-title = 'Intralogistik'
+date = '2019-12-01'
+title = 'Middleware für Lagerverwaltung und Produktionssteuerung'
 description = 'Middleware-Lösung für Echtzeit-Transparenz zwischen Lagerverwaltung und Produktion. Nahtlose Integration ohne Änderungen an Bestandssystemen.'
 technologies = ['Xojo', 'SAP SQL Anywhere']
 contentQuality = 4
