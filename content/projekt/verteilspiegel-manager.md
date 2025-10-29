@@ -3,6 +3,7 @@ date = '2024-06-30'
 title = 'Verteilspiegel-Manager'
 description = 'Zeitsparende Auftragsanlage für eine Warenwirtschafts-Anwendung'
 technologies = ['Lazarus', 'SAP SQL Anywhere']
+contentQuality = 3
 +++
 
 Dieses Desktop-Programm wurde als Ergänzung zu einem bestehenden Warenwirtschafts-Programm gewünscht. Es dient einzig dazu, "Auftragsdefinitionen" für Kundenaufträge (sog. Verteilspiegel) so effizient und arbeitssparsam wie möglich anzulegen. Im eigentlichen Warenwirtschafts-Programm musste dieser Vorgang kleinteilig erfolgen – die Nutzer mussten immer wieder, für jeden neuen Kunden und jeden neuen Auftrag, Auftragsdefinitionen aus den gleichen Bestandteilen zu den gleichen Auftragspositionen zusammenbauen. Zudem musste man wissen (oder nachschlagen), welche Bestandteile in welche Auftragsposition gehören.

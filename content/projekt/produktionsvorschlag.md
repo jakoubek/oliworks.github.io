@@ -4,6 +4,7 @@ draft = true
 title = 'Produktionsvorschlag'
 description = 'kurze Zusammenfassung'
 technologies = ['', '']
+contentQuality = 1
 +++
 
 Projektbeschreibung

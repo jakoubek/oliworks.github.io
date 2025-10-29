@@ -4,6 +4,7 @@ draft = true
 title = 'Softwarewartung RealStudio'
 description = 'kurze Zusammenfassung'
 technologies = ['Xojo', 'RealStudio', 'MySQL', 'MariaDB']
+contentQuality = 1
 +++
 
 Projektbeschreibung

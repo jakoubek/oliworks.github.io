@@ -3,6 +3,7 @@ date = '2022-01-01'
 title = 'Effiziente Mitarbeiter-Kommunikation auf Knopfdruck'
 description = 'Hunderte Mitarbeiter in Minuten informieren – per E-Mail oder SMS'
 technologies = ['E-Mail', 'SMS', 'API', 'SAP SQL Anywhere', 'Xojo', 'Go']
+contentQuality = 4
 +++
 
 Wie ein mittelständisches Unternehmen hunderte Mitarbeiter in Minuten statt Stunden erreicht – mit einem maßgeschneiderten Benachrichtigungssystem.

@@ -3,6 +3,7 @@ date = '2025-03-01'
 title = 'Automatische Geschlechtszuordnung für Adressdatenbanken'
 description = 'Kostenfreie API zur Qualitätssicherung in der Kundenkommunikation – korrekte Anreden durch automatische Geschlechtsbestimmung aus Vornamen'
 technologies = ['API']
+contentQuality = 4
 +++
 
 **Die Herausforderung**: Nichts schadet der Kundenbeziehung mehr als eine falsche Anrede im Geschäftsbrief. „Sehr geehrter Herr Schmidt", wenn Andrea Schmidt eine Frau ist – solche Fehler entstehen schnell bei der manuellen Dateneingabe und fallen oft erst auf, wenn der Brief schon versendet wurde. Bei großen Adressdatenbanken wird die manuelle Prüfung unpraktikabel.

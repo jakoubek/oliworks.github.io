@@ -3,6 +3,7 @@ date = '2024-05-16'
 title = 'Automatisierte Datenbank-Migrationen mit Goose'
 description = 'Von manuellen SQL-Skripten zu versionskontrollierten Datenbank-Migrationen'
 technologies = ["MySQL", "MariaDB", "PowerShell", "SQL"]
+contentQuality = 5
 +++
 
 Für einen Kunden mit einem MySQL/MariaDB-Cluster implementierte ich ein modernes Migrationssystem, das manuelle Datenbankänderungen durch automatisierte, nachvollziehbare Migrationen ersetzt.

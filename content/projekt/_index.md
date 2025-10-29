@@ -4,6 +4,7 @@ draft = false
 title = 'Kundenprojekte & Portfolio'
 description = 'Ausgewählte Kundenprojekte aus meiner Beratungstätigkeit'
 showDate = false
+contentQuality = 3
 +++
 
 ## Ausgewählte Kundenprojekte aus meiner Beratungstätigkeit

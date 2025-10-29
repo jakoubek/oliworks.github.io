@@ -3,6 +3,7 @@ date = '2023-11-01'
 title = 'Transportlogistik XTL'
 description = 'Automatisierte Tourenoptimierung durch Integration von Warenwirtschaft und Transportlogistik-System'
 technologies = ['API', 'Go', 'SAP SQL Anywhere']
+contentQuality = 4
 +++
 
 ## Die Herausforderung

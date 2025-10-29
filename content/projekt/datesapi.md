@@ -3,6 +3,7 @@ date = '2020-11-25'
 title = 'DatesAPI'
 description = 'Ein kostenfrei nutzbarer Webservice, der Datumswerte bereitstellt und einfach in Make oder Zapier eingebunden werden kann'
 technologies = ['Automatisierung', 'Go', 'API']
+contentQuality = 2
 +++
 
 **DatesAPI** ist ein in Go geschriebener Webservice, der Informationen zu "Datums" bereitstellt. Ich habe diesen Dienst aufgesetzt, weil Datumsmanipulationen in den üblichen Automatisierungsplattformen (Zapier, Make, ...) sehr umständlich zu realisieren sind. Dies gilt umso mehr, wenn man Datumsangaben (z.B. Monatsnamen) auf deutsch weiterverwenden möchte.

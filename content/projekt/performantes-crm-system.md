@@ -3,6 +3,7 @@ date = '2022-08-01'
 title = 'CRM-System für Unternehmensgruppe mit 100.000+ Kontakten'
 description = 'Performantes Kontaktmanagement für eine Unternehmensgruppe mit mehreren hunderttausend Adressdaten'
 technologies = ['Ninox', 'API']
+contentQuality = 4
 +++
 
 Eine Unternehmensgruppe stand vor der Herausforderung, ihre umfangreichen Kundenkontakte zentral zu verwalten – über mehrere hunderttausend Adressdatensätze, die für die tägliche Arbeit schnell durchsuchbar und filterbar sein mussten.

@@ -3,6 +3,7 @@ date = '2025-10-21T17:20:34+02:00'
 draft = false
 title = 'Impressum'
 showDate = false
+contentQuality = 5
 +++
 
 Oliver Jakoubek  

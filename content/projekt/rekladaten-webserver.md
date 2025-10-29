@@ -4,6 +4,7 @@ draft = true
 title = 'Rekladaten Webserver'
 description = 'kurze Zusammenfassung'
 technologies = ['', '']
+contentQuality = 1
 +++
 
 Projektbeschreibung

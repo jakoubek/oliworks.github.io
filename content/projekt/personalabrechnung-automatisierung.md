@@ -3,6 +3,7 @@ date = '2020-01-01'
 title = 'Effiziente Lohnvorbereitung für große Belegschaften'
 description = 'Automatisierte Lohnvorbereitung spart dem Abrechnungsteam mehrere Arbeitstage pro Zyklus'
 technologies = ['SAP SQL Anywhere', 'Lazarus']
+contentQuality = 4
 +++
 
 ## Die Herausforderung

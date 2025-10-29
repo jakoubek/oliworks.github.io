@@ -3,6 +3,7 @@ date = '2025-07-01'
 title = 'GDT-Importtool für digitale Patientenaufnahme'
 description = 'Automatisierte Integration von Patient-Intake-Systemen in Praxisverwaltungssoftware'
 technologies = ['Go', 'PostgreSQL', 'GDT-Dateiformat-Parsing']
+contentQuality = 4
 +++
 
 Für einen Kunden aus dem Gesundheitswesen entwickelte ich ein Importtool, das moderne digitale Patientenaufnahme-Lösungen nahtlos mit bestehenden Praxisverwaltungssystemen verbindet.

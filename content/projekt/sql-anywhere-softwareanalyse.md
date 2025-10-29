@@ -4,6 +4,7 @@ draft = true
 title = 'SAP SQL Anywhere-Softwareanalyse'
 description = 'kurze Zusammenfassung'
 technologies = ['', '']
+contentQuality = 1
 +++
 
 Projektbeschreibung

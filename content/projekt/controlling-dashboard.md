@@ -4,6 +4,7 @@ draft = true
 title = 'Controlling-Dashboard'
 description = 'kurze Zusammenfassung'
 technologies = ['Xojo', 'SAP SQL Anywhere']
+contentQuality = 1
 +++
 
 Projektbeschreibung

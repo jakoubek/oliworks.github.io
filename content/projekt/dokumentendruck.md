@@ -4,6 +4,7 @@ draft = true
 title = 'Dokumentendruck'
 description = ''
 technologies = ['', '']
+contentQuality = 1
 +++
 
 Projektbeschreibung

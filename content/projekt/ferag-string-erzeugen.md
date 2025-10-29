@@ -3,6 +3,7 @@ date = '2023-12-31'
 title = 'FERAG-String erzeugen'
 description = 'Wie Sie mit meinen Open-Source-Bibliotheken dynamisch TSL-Dateien für Ihre FERAG-Versandanlage erzeugen können'
 technologies = ['FERAG-String', 'Go', 'Laravel', 'PHP', 'PostgreSQL', 'PDF']
+contentQuality = 2
 +++
 
 ==Für den Versand in Ihrer Druckereilogistik benötigen Sie einen FERAG-String zur Ansteuerung Ihrer FERAG-Versandanlage?== Ich zeige Ihnen, wie leicht Sie mit Hilfe meiner Open-Source-Bibliothek **feragstring** selbst eine FERAG-String-Datei aus Ihren Logistikdaten erzeugen können.

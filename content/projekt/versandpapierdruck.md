@@ -3,6 +3,7 @@ date = '2018-04-30'
 title = 'Versandpapierdruck'
 description = 'Massenweises Erzeugen von PDF-Papieren aus einer Warenwirtschaft'
 technologies = ['SAP SQL Anywhere', 'Xojo', 'Go', 'PDF']
+contentQuality = 3
 +++
 
 Für ein Unternehmen aus dem Bereich Medienlogistik wurde die Möglichkeit geschaffen, auf Basis von Auftragsdaten in der Warenwirtschafts-Software wöchentlich PDF-Versandpapiere massenweise erzeugen zu können.
